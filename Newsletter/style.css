@@ -1,0 +1,173 @@
+header{
+    background-color:#f3f3f5;
+    width:680px;
+    
+}
+
+#logo{
+    height:30px;
+    padding:25px;
+}
+
+#main{
+    position:relative;
+    top:-40px;
+    background-color: #64A05E;
+    width:680px;
+    height:700px;
+}
+
+.boldwhite{
+    font-size: 35px;
+    font-family:arial,sans-serif;
+    color:#ffffff;
+    padding: 30px 0px 0px 30px;
+}
+
+.smallwhite{
+    font-family:arial,sans-serif;
+    font-size:17px;
+    color:#fff;
+    padding: 30px 0px 0px 30px;
+}
+
+#front{
+    padding: 30px 0px 0px 30px;
+}
+
+#button{
+    padding:15px;
+    background: #fff;
+    width:90px;
+    text-align:center;
+    display:inline-block;
+    border-radius: 3px;
+}
+
+#innerbutton{
+    color:#0077cc;
+    text-decoration: none;
+    font-family:arial,sans-serif;
+}
+
+#scale01{
+    height:200px;
+    padding: 30px 10px 10px 30px;
+}
+
+
+.blackbold{
+    font-family:arial,sans-serif;
+    font-weight:bold;
+    font-size:21px;
+    line-height:21px;
+    color:#0c0d0e;
+    margin:0px 0px 15px 40px;
+}
+
+.paragraph{
+    font-family:arial,sans-serif;
+    font-size:15px;
+    line-height:21px;
+    color:#0c0d0e;
+    margin:0 0 15px 40px;
+}
+
+#scale02{
+    height:120px;
+    margin:20px 0px 15px 40px;
+}
+
+#smallbold{
+    font-family:arial,sans-serif;
+    font-weight:bold;
+    font-size:18px;
+    line-height:21px;
+    color:#0c0d0e;
+    margin:0px 0px 15px 40px;
+}
+
+#links{
+    text-decoration:none;
+    color:#0077cc;
+}
+
+#centeralign{
+    font-family:arial,sans-serif;
+    font-weight:bold;
+    font-size:21px;
+    line-height:21px;
+    color:#0c0d0e;
+    padding: 15px;
+    width:680px;
+    text-align: center;
+}
+
+#blue{
+    height:75px;
+    background-color: #117FF1;
+    width:680px;
+}
+
+#bottom{
+    height:300px;
+    width:680px;
+    background-color: lightgrey;
+}
+
+.lightgrey{
+    text-align: left;
+    font-family:arial,sans-serif;
+    font-size:12px;
+    line-height:21px;
+    color:grey;
+    margin:15px 0 0 55px;
+}
+
+.greylinks{
+    list-style-type:none;
+    text-decoration:underline;
+    font-family:arial,sans-serif;
+    font-size:12px;
+    line-height:21px;
+    color:grey;
+    text-align: left;
+    margin:15px 0 0 15px;
+}
+
+li{
+    text-align: left;
+    display:inline;
+    padding:0 10px 0 0;
+}
+
+.underline{
+    border-top:1px solid rgb(187, 187, 187);
+    margin:30px 0 0 0;
+}
+
+#moveimg{
+    padding: 15px 0 0 55px;
+}
+
+#greylogo{
+    height:25px;
+    
+}
+
+#heart{
+    color:#e06c77;
+    background-color:#fff;
+    padding:5px;
+    width:15px;
+    border-top:1px solid grey;
+    border-right:1px solid grey;
+    border-left:1px solid grey;
+    border-bottom:1px solid grey;
+}
+
+
+
+/* <td style="font-family:arial,sans-serif;font-size:15px;line-height:21px;color:#3c3f44;text-align:left" align="left"> <h2 style="font-weight:bold;font-size:21px;line-height:21px;color:#0c0d0e;margin:0 0 15px 0"><b id="m_2951813165315957262docs-internal-guid-f998ee1f-7fff-95f1-7b8d-c899372ad141">Here’s what happened...</b></h2> <p style="margin:0" class="m_2951813165315957262has-markdown">We recalculated reputation for everyone on Stack Overflow based on this change. Any question upvote earned in the past was awarded a value of 10 reputation points.</p> </td>*/
+
+/* #64A05E */
