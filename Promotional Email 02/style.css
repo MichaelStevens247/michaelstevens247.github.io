@@ -1,0 +1,176 @@
+#head{
+    padding: 16px;
+}
+
+.thingrey{
+    text-decoration: none;
+    color: #767676;
+    font-size: 12px;
+    font-weight: lighter;
+    font-family: Helvetica, Arial,sans-serif;
+}
+
+.boldgrey{
+    font-size:12px;
+    color: #767676;
+    line-height: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica, Arial,sans-serif;
+}
+
+.centerimgs{
+    display: inline-block;
+}
+
+.sizeimages01{
+    width: 276px;
+}
+
+.wide{
+    width:100%;
+}
+
+.horizontal{
+    /* display: flex;
+    justify-content: center; */
+    width:100%;  
+    padding: 10px 0 0 0;
+}
+
+.left{
+    display: block;
+    text-align:left;
+}
+
+.right{
+    display: block;
+    text-align: right;
+}
+
+.bigtext{
+    line-height:30px;
+    font-family:Helvetica,Arial,sans-serif,'Market Sans';
+    font-size:24px;
+    margin: auto;
+    color:#111820;
+    font-weight:700;
+    text-decoration: none;
+}
+
+.smalltext{
+    line-height:17px;
+    font-family:Helvetica,Arial,sans-serif,'Market Sans';
+    font-size:16px;
+    color:#111820;
+    font-weight:700;
+    text-decoration: none;
+}
+
+.bold{
+    font-family:Helvetica,Arial,sans-serif,'Market Sans';
+    font-size:16px;
+    color:#111820;
+    font-weight:700;
+    vertical-align:top; 
+    text-align: left;
+}
+
+#sunglasses{
+    width: 276px;
+    padding: 15px 0 0 0;
+}
+
+#coffeemaker{
+    width: 276px;
+    padding: 15px 0 0 0;
+}
+
+.lightgrey{
+    line-height:15px;
+    font-family:Helvetica,Arial,sans-serif,'Market Sans';
+    font-size:12px;
+    color:#767676;
+    font-weight:normal;
+    padding: 10px 0 0 0;
+}
+
+.smallcell{
+    width: 142px;
+}
+
+.bottomimg{
+    width:130px;
+    height: 130;
+}
+
+.bottomcell{
+    width: 130px;
+}
+
+.lightgreylarge{
+    line-height:15px;
+    font-family:Helvetica,Arial,sans-serif,'Market Sans';
+    font-size:14px;
+    color:#767676;
+    font-weight:normal;
+    padding: 10px 0 0 0;
+}
+
+.price{
+    font-weight: bold;
+    font-family:Helvetica,Arial,sans-serif,'Market Sans';
+    font-size: 16px;
+    line-height: 19px;
+    padding: 5px 0 0 0;
+}
+
+#question{
+    display:block;
+    line-height:27px;
+    font-family:Helvetica,Arial,sans-serif,'Market Sans';
+    font-size:14px;
+    color:#111820;
+    font-weight:600;
+    text-decoration:none;
+    text-align: left;
+    padding: 40px 0 0 0;
+    margin: auto;
+}
+
+.checkmarks{
+    height:24px;
+    
+}
+
+#checkmarkpadding{
+    padding-left: 15px;
+}
+
+.socialmedia{
+    height:24px;
+    padding:  15px 0 0 0;
+}
+
+.underline{
+    text-decoration: underline;
+    color:#767676;
+}
+
+
+/*<div id="m_-5432375223446690362headline_feedback" style="line-height:27px;width:230px;font-family:Helvetica,Arial,sans-serif,'Market Sans';font-size:14px;color:#111820;font-weight:600;text-decoration:none" align="left"> Did you find this email helpful? </div> */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

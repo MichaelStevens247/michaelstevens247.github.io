@@ -1,0 +1,164 @@
+body{
+    width:680px;
+    background-color:#f8f8f8;
+}
+
+#letter{
+    background-color:#f8f8f8;
+    width:80%;
+    color:#787878;
+    font-family:'Open Sans',sans-serif;
+    vertical-align:top;
+    padding: 50px;
+    font-size:14px;
+    line-height:16px;
+    line-height:1.6
+}
+
+.white{
+    width: 60%;
+    margin:auto;
+    background-color:white;
+    padding:10px;
+    border-top: #eeeeee solid 1px;
+    border-bottom: #eeeeee solid 1px;
+    border-left: #eeeeee solid 1px;
+    border-right: #eeeeee solid 1px;
+}
+
+.lightgrey{
+    color:#757575;
+    font-family:'Open Sans', sans-serif;
+    font-size: 13px;
+}
+
+.blackbold{
+    color:#393939;
+    font-size:20px;
+    font-weight: 600;
+    font-family:'Open Sans',sans-serif;
+    vertical-align:top;
+}
+
+.left{
+    width: 50%;
+    text-align: left;
+    padding: 20px;
+    vertical-align: middle;
+}
+
+.right{
+    text-align: right;
+    padding: 20px;
+    vertical-align: middle;
+}
+
+.center{
+    text-align: center;
+}
+
+#donation{
+    /* width: 90%; */
+    margin: auto;
+    border-collapse: collapse;
+    
+}
+
+.underline{
+    border-bottom: 1px solid #eee;
+}
+
+#darkgrey{
+    width: 41px;
+    height: 50px;
+    background-color: darkgrey;
+}
+
+.imgdiv{
+    background-color: blue;
+    width: 10%;
+}
+
+#receipt{
+    font-size: 15px;
+    background-color:red;
+    font-family:'Open Sans',sans-serif;
+    font-size: 13px;
+    color:#393939;
+    padding: 0;
+    width: 90%;
+}
+
+.wide{
+    width: 100%;
+}
+
+.links{
+    font-family:'Open Sans',sans-serif;
+    font-size: 13px;
+    color:#393939;
+    text-decoration: none;
+}
+
+#bottomdiv{
+    padding: 30px 0 0 0;
+    
+}
+
+#bottomtable{
+    border-top: #eeeeee solid 1px;
+    border-bottom: #eeeeee solid 1px;
+    border-left: #eeeeee solid 1px;
+    border-right: #eeeeee solid 1px;
+    width:418px;
+    margin:auto;
+    background-color: white;
+}
+
+.salutation{
+    padding: 30px 0 0 0;
+    text-align: center;
+    color:#757575;
+    font-size:12px;
+    font-family:'Open Sans',sans-serif;
+}
+
+
+
+
+
+
+
+
+
+/* <div style="text-align:center;color:#757575;font-size:12px">  Innocence Project<br>40 Worth Street, Suite 701<br>  New York, NY 10013    </div>*/
+
+
+/* table{
+    text-align:left;
+    vertical-align: top;
+    width: 420px;
+    height: 380px;
+    background-color: white; 
+}
+
+ tr{
+    vertical-align: top;
+    text-align:left;
+}
+
+.cell{
+    vertical-align: top;
+    text-align: center;
+}  */
+
+
+/* <td style="word-break:break-word;font-weight:normal;
+font-family:'Open Sans',sans-serif;vertical-align:top;
+padding:0;border-collapse:collapse;
+font-size:14px;color:#787878;
+text-align:left;margin:0;
+line-height:1.6"><div style="font-size:16px;
+line-height:16px;width:100%">&nbsp;
+</div><div id="m_1617798779684729592heading-supporting-message">Dear <span>Michael</span> ,<br><br>On behalf of the Innocence Project, our Co-Directors Barry Scheck and Peter Neufeld, and most importantly, the people we serve, please accept our thanks for your generous recurring donation. We are honored by this expression of support, and deeply appreciative of your commitment to advancing the cause of justice.<br><br>DNA testing has exonerated more than 360 people in&nbsp;<br>the United States since 1989, including 40 who pleaded guilty to crimes they did not commit and 20 who served time on death row. The Innocence Project provided representation or was a consultant in more than 185 of these cases.<br><br>If you have any questions about your donation, please contact us at <a href="tel:212-364-5976" target="_blank">212-364-5</a>386 or <a rel="nofollow" href="mailto:development@innocenceproject.org" target="_blank">development@innocenceproject.<wbr>org</a>.<br><br>Thank you again for your generosity. Please know how deeply we appreciate your partnership in our work.<br><br>With gratitude,<br>Innocence Project</div>
+      </td> */
